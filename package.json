@@ -1,0 +1,38 @@
+{
+  "name": "next-rules-overriding-modules",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "kidcer <kidcer1994@gmail.com>",
+  "description": "Next.js plugin for overriding webpack rules",
+  "main": "src/next-rules-overriding-modules.js",
+  "files": [
+    "src/next-rules-overriding-modules.js",
+    "src/next-rules-overriding-modules.d.ts"
+  ],
+  "scripts": {
+    "prepublish": "tsc",
+    "publish": "tsc && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidcer/next-rules-overriding-modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kidcer/next-rules-overriding-modules/issues"
+  },
+  "homepage": "https://github.com/kidcer/next-rules-overriding-modules#readme",
+  "keywords": [
+    "next",
+    "next.js",
+    "plugin",
+    "modules",
+    "webpack"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1",
+    "typescript": "^3.9.7"
+  }
+}

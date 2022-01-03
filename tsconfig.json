@@ -1,0 +1,9 @@
+{
+  "include": ["src/next-rules-overriding-modules.js"],
+  "ignore": [],
+  "compilerOptions": {
+    "allowJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true
+  }
+}
