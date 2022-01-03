@@ -2,7 +2,7 @@
   "name": "next-rules-overriding-modules",
   "version": "0.0.1",
   "license": "MIT",
-  "author": "kidcer <kidcer1994@gmail.com>",
+  "author": "Harry Li <kidcer1994@gmail.com>",
   "description": "Next.js plugin for overriding webpack rules",
   "main": "src/next-rules-overriding-modules.js",
   "files": [
